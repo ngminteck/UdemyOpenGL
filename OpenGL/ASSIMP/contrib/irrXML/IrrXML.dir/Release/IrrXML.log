@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/OpenGL/assimp-5.0.1/contrib/irrXML/CMakeLists.txt
+  irrXML.cpp
+  IrrXML.vcxproj -> D:\OpenGL\assimp-5.0.1\lib\Release\IrrXML.lib

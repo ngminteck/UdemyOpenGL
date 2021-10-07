@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OpenGLLearning\OpenGL\OpenGL\main.cpp(97,52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\OpenGLLearning\OpenGL\OpenGL\main.cpp(374,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  2 of 937 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL.vcxproj -> D:\OpenGLLearning\OpenGL\x64\Release\OpenGL.exe
